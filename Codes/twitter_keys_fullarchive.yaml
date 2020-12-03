@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: premium
+  consumer_key: 'KZ8TgAeescvjJ1x8tvha5HDWW'
+  consumer_secret: 'jd5w3bGBGOJt3Ik90cAOCTT0ECVD19d754R9bUlS1jKLlX1a8O'
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/AcademicProject.json
